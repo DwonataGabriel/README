@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1Gabril Sales
-- 👀 I’m interested in atuar a as developer Front-End
+- 👀 I’m interested in working a as developer Front-End
 - 🌱 I’m currently learning Node e React 
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
