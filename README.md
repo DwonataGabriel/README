@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   </i> <br>
   <a  href="https://www.instagram.com/imgabriel.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white&style=for-the-badge&logoWheight=50"></a>
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Outlook-black?logo=microsoftoutlook&logoColor=white&style=for-the-badge&logoWheight=200"></a>
-  ### Coloca teu link do linkedln ###<a href="https://www.linkedin.com/in/imDwonata gabriel/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-black?logo=linkedin&logoColor=white&style=for-the-badge&logoWheight=50"" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/imDwonata gabriel/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-black?logo=linkedin&logoColor=white&style=for-the-badge&logoWheight=50"" target="_blank"></a> 
  </p>
 
 
