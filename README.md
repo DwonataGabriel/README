@@ -19,9 +19,9 @@
 
 
 
-### Hi 👋
+<!--### Hi 👋
    Atualmente estudo Análise e desenvolvimento de sistemas.
-<!-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. -->
 
