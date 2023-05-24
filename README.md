@@ -20,7 +20,6 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
  
 <div style="display: inline_block"> 
-   <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/"> 
    <img align="left" alt="Anna-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100868704/218355863-c68ac6a5-f05f-47cc-adf9-034ee57e0537.png"> 
  </div>
 
