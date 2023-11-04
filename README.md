@@ -1,20 +1,9 @@
- 👋 Hi, I’m D.Gabriel
-- 👀 I study development with django and my hobby is to create games 
-- 🌱 I’m currently learning django 
-
 
 <h3> 👨🏻•💻 About Me </h3>
 
-
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
+ 👋 Hi, I’m D.Gabriel
+- 👀 I study development with django and my hobby is to create games 
+- 🌱 I’m currently learning django 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
