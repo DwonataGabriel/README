@@ -4,9 +4,14 @@
 <!-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...-->
 
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwonataGabriel&hide=html&layout=compact&theme=buefy" />  
-
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwonatagabriel&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dwonatagabriel&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
