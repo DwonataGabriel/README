@@ -1,5 +1,5 @@
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3>•💻 About Me </h3>
 
  👋 Hi, I’m D.Gabriel
 - 👀 I study development with django and my hobby is to create games 
