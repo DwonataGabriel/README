@@ -8,7 +8,11 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwonatagabriel&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dwonatagabriel&theme=buefy"/></td>
+        <td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdwonatagabriel&show_icons=true)
+         
+        </td>
     </tr>   
 </table>
 </center>  
