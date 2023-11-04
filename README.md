@@ -1,8 +1,21 @@
  👋 Hi, I’m D.Gabriel
 - 👀 I study development with django and my hobby is to create games 
 - 🌱 I’m currently learning django 
-<!-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...-->
+
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=dwonatagabriel&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
