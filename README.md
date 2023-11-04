@@ -5,7 +5,7 @@
 - 📫 How to reach me ...-->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=dwonatagabriel&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
 
 
 
