@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning django 
 <!-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...-->
-<!--<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>-->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <center>
 <table>
     <tr>
