@@ -4,18 +4,10 @@
 <!-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...-->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwonatagabriel&hide=html&layout=compact&theme=buefy" /></td>
-       
 
- <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwonatagabriel&showicons=true)<td>
-         
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
 
-    </tr>   
-</table>
-</center>  
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
