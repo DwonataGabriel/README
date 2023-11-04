@@ -1,9 +1,9 @@
 
 <h3>•💻 About Me </h3>
 
- 👋 Hi, I’m D.Gabriel
+ 👋 Oi, meu nome é D.Gabriel
 - 👀 I study development with django and my hobby is to create games 
-- 🌱 I’m currently learning django 
+- 🌱 I’m currently learning django  
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
