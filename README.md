@@ -10,7 +10,7 @@
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwonatagabriel&hide=html&layout=compact&theme=buefy" /></td>
         <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdwonatagabriel&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwonatagabriel&showicons=true)
          
         </td>
     </tr>   
