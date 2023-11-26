@@ -1,7 +1,7 @@
 
 <h3>•💻 About Me </h3>
 
- 👋 Oi, meu nome é D.Gabriel
+ 👋 hi, my name is D.Gabriel
 - 👀 Eu atualmente estudo desenvolvimento com DJango e no meu tempo livre gosto de desenvolver games 
 - 🌱 I’m currently learning django  
 
